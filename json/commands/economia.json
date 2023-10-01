@@ -1,0 +1,9 @@
+[{
+  "name": "mw!daily",
+  "description": "Resgate suas MiniMoedas diárias",
+  "usage": "[Vazio]"
+},{
+  "name": "mw!atm",
+  "description": "Veja quantas MiniMoedas você tem ou de algum outro membro",
+  "usage": "[Vazio | @user]"
+}]
